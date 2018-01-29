@@ -1,0 +1,21 @@
+1) Week 2 Lecture
+
+1a) Preparation
+
+In preparation for the second lecture, I reviewed the lecture slides and
+researched Amazon's Elastic File System product offering. [0]
+
+From an operating system point of view, I understand how the file system is
+organized as a data structure within the Linux kernel; however, I find it
+difficult to comprehend how an external internet accessible resource can be
+mounted locally to a system. I hypothesize that for EFS the hypervisor mimics
+a storage medium; however, my case still stands for other storage devices like
+a NAS or SAN.
+
+3) After Class
+
+TODO
+
+4) References
+
+[0] https://aws.amazon.com/efs/
