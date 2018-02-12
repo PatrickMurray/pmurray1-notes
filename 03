@@ -11,5 +11,8 @@ the operating system to interact with hardware.
 
 3) After Class
 
-TODO
+Although I was aware of the mess of the NodeJS package manager, I found the
+discussion to be insightful regarding the detection & updating of software
+installed via miscellaneous sources external of the system's default package
+manager.
 
