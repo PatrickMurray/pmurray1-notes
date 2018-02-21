@@ -10,5 +10,10 @@ technologies such as LDAP.
 
 3) After Class
 
-TODO
+Working through the in class exercise, I was once again reminded of my
+confusion over the differences between the adduser(8) and useradd(8) commands
+and arguments. I'm sure that there are some historical differences as to why
+these two tools exist to perform the same job. I hypothesize that their
+existence is the result of a long standing UNIX dispute similar to which
+built-ins are "required" in a distribution.
 
