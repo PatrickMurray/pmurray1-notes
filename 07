@@ -1,0 +1,14 @@
+1) Week 5 Lecture
+
+1a) Preparation
+
+I'm interested in learning if DNS amplification attacks against the root DNS
+servers were successful is disrupting Internet connectivity. Since these `13
+root server` are actually load-balanced end-points, I would expect that the
+attack was unsuccessful. A more effective attach vector would be to infultrate
+the root server infrastructure and attack from the inside.
+
+3) After Class
+
+TODO
+
