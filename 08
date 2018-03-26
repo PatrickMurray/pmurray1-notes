@@ -7,5 +7,7 @@ HTTPS and it's potential affects on client adoption.
 
 3) After Class
 
-TODO
-
+The class lecture regarding SMTP was incredibly insightful. The task of
+deploying a personal mail server seems interesting, one day I hope to deploy my
+own as a part of my personal infrastructure. I was unaware of the separation of
+mail server, mail client, delivery system, and spam analyzer.
